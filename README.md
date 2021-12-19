@@ -73,6 +73,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 
 
 #### AlumneFila3 PC1:
+Antonio Toledo ha afegit un metode per a desitjar "Bon Nadal i Feliç Any Nou.  Pau i Salut per a tots." i ademes ha afegit un arbre de nadals
 
 
 #### AlumneFila3 PC2:
