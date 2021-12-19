@@ -153,6 +153,27 @@ public class MissatgesNadalencs {
 
 	// FILA 3
 	private static void AlumneFila3PC1() {
+	System.out.println("====================================");
+        System.out.println("Hola, sóc Antonio Toledo alumne de DAM A");
+        System.out.println(" BON NADAL, Salut i Pau per a tots.");
+        System.out.println(" FELIÇ ANY NOU !!!!!!");
+	int i,j,k,n;
+        	n=10; //Modifica este parámetro si quieres
+        	for(i=1; i<n+(n/2); i++){
+            	for(j=n+(n/2); j>i; j--){
+                	System.out.print(" ");}
+            	for(k=1; k<=2*i-1; k++){
+                	System.out.print("+");}
+            	System.out.println("");
+        	}
+        	for(i=1; i<n-(n/2); i++){
+            	for(j=n+(n/2); j>1; j--){
+                	System.out.print(" ");}
+            	for(k=n/2; k<=(n/2)+1; k++){
+                	System.out.print("*");}
+            	System.out.println("");
+        	}
+        System.out.println("====================================");
 
 	}
 
